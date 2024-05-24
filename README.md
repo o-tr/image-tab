@@ -1,7 +1,7 @@
 # ImageTab
 
-![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Booth](https://img.shields.io/badge/BOOTH-c54245)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/o-tr/image-tab/blob/master/LICENSE)
+[![Booth](https://img.shields.io/badge/BOOTH-c54245)](https://ootr.booth.pm/items/5610957)
 
 VRCImageDownloaderを用いた画像表示用のタブレットモデルとUdonSharpスクリプトです
 
