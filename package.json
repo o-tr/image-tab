@@ -1,0 +1,15 @@
+{
+  "name": "image-tab",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^5.1.4"
+  }
+}
