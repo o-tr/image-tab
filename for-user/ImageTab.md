@@ -4,8 +4,9 @@
 
 ## ① URL入力欄
 
-> [!NOTE]
-> URLは画像へ直接リンクしている必要があります。リダイレクトされるURLや画像を含むWebページは処理できません
+{% alert type="note", style="callout" %}
+URLは画像へ直接リンクしている必要があります。リダイレクトされるURLや画像を含むWebページは処理できません
+{% endalert %}
 
 ![url-image](https://github.com/o-tr/image-tab/assets/155529332/7018be5a-6d83-477a-8dfe-da6e45e46feb)
 
@@ -13,9 +14,10 @@
 
 ## ② 画像投影
 
-> [!IMPORTANT]
-> ワールド制作者が投影機能を有効化していない場合があります  
-> その場合はこのボタンは表示されず、機能も利用できません
+{% alert type="note", style="callout" %}
+ワールド制作者が投影機能を有効化していない場合があります  
+その場合はこのボタンは表示されず、機能も利用できません
+{% endalert %}
 
 ![cast-image](https://github.com/o-tr/image-tab/assets/155529332/f90e9d52-4fa6-44a9-bfce-e2fb8ad05c12)
 
@@ -31,9 +33,10 @@
 
 ## ③ ブックマーク/履歴機能
 
-> [!IMPORTANT]
-> ワールド制作者がブックマークを設定していない場合は下段のように表記が変わり、履歴機能のみが有効となります  
-> <img src="https://github.com/o-tr/image-tab/assets/155529332/a4ef2426-a2b7-4123-999f-f112a4fc72ff" width=500>
+{% alert type="note", style="callout" %}
+ワールド制作者がブックマークを設定していない場合は下段のように表記が変わり、履歴機能のみが有効となります  
+<img src="https://github.com/o-tr/image-tab/assets/155529332/a4ef2426-a2b7-4123-999f-f112a4fc72ff" width=500>
+{% endalert %}
 
 ### ブックマーク機能
 
@@ -43,9 +46,10 @@
 
 ### 履歴機能
 
-> [!NOTE]
-> 履歴は各ユーザーごとにローカルです  
-> Join以前の履歴は同期されないほか、削除も同期されません
+{% alert type="note", style="callout" %}
+履歴は各ユーザーごとにローカルです  
+Join以前の履歴は同期されないほか、削除も同期されません
+{% endalert %}
 
 <img src="https://github.com/o-tr/image-tab/assets/155529332/65338f05-e2e8-45bf-a852-9cd1c01a6061" width=400>
 

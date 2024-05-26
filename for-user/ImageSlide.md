@@ -19,16 +19,18 @@ ImageTabの入力欄と同様、画像のURLを入力できます
 
 一括で複数枚の画像を読み込むための独自形式 `TextZip` を用いたファイルのURLを入力できます
 
-> [!NOTE]
-> 以下のサイトからPDFや画像をTextZip形式のファイルに変換できます  
-> https://slide.ootr.jp/
+{% alert type="note", style="callout" %}
+以下のサイトからPDFや画像をTextZip形式のファイルに変換できます  
+https://slide.ootr.jp/
+{% endalert %}
 
 ### ③URL
 
 読み込まれている画像のURLを表示します
 
-> [!NOTE]
-> 通常の画像の場合は`https://`から始まる実際のURL、TextZip形式の画像の場合は`zip://<元のURL>/<Zip内のパス>`という形式になります
+{% alert type="note", style="callout" %}
+通常の画像の場合は`https://`から始まる実際のURL、TextZip形式の画像の場合は`zip://<元のURL>/<Zip内のパス>`という形式になります
+{% endalert %}
 
 ### ④コピー
 

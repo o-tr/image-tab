@@ -1,5 +1,8 @@
 {
     "title": "ImageTab",
     "author": "ootr",
-    "language": "ja"
+    "language": "ja",
+    "plugins":[
+        "alert-msg"
+    ]
 }
