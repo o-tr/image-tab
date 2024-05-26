@@ -29,7 +29,7 @@ URLを入力することによって任意の画像を表示できる他、あ�
 
 ## 使い方
 詳細は以下のリンクをご確認ください  
-https://github.com/o-tr/image-tab/wiki  
+https://o-tr.github.io/image-tab/  
 
 ## サポート
 BOOTHの購入履歴またはTwitterのDMに連絡をいただければ対応します
