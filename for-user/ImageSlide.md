@@ -1,13 +1,13 @@
 # ImageSlideの使い方
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/a61b4b6e-76e4-4064-88a9-e00af8088b50" width=400/>
+<img src="./img/slide.png" width=400/>
 
 ImageSlideは画像投影用のギミックです  
 あらかじめ複数の画像を読み込んでおくことで、端末を切り替えたり画像を読み込み直したりする手間なくスライドなどの資料を投影できます
 
 ## ① List
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/9f7205a2-9cbd-49d8-93ec-749511f65061" width=400/>
+<img src="./img/slide-list.gif" width=400/>
 
 画像を読み込むための画面です
 
@@ -42,13 +42,13 @@ https://slide.ootr.jp/
 
 ## ② Screens
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/926ca8ac-92ca-41b3-b0d8-ab335592524e" width=400/>
+<img src="./img/slide-screens.gif" width=400/>
 
 投影対象として使用する端末を選択することができます
 
 ## ③ Control
 
-![slide-screens-control](https://github.com/o-tr/image-tab/assets/155529332/1882a55b-618f-4b77-b5a3-d258024fc1b3)
+<img src="./img/slide-screens-control.gif">
 
 ### Prev
 
