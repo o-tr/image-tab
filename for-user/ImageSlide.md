@@ -11,6 +11,8 @@ ImageSlideは画像投影用のギミックです
 
 画像を読み込むための画面です
 
+<img src="./img/slide-list.png" width=400/>
+
 ### ①画像URL用入力欄
 
 ImageTabの入力欄と同様、画像のURLを入力できます
