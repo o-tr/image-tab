@@ -1,6 +1,6 @@
 # ImageTabの使い方
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/b728d56c-becf-473a-909d-6f07727e93b6" width=400>
+<img src="./img/image-tab.png" width=400>
 
 ## ① URL入力欄
 
@@ -8,7 +8,7 @@
 URLは画像へ直接リンクしている必要があります。リダイレクトされるURLや画像を含むWebページは処理できません
 {% endalert %}
 
-![url-image](https://github.com/o-tr/image-tab/assets/155529332/7018be5a-6d83-477a-8dfe-da6e45e46feb)
+<img src="./img/url-image.gif">
 
 クリックすると開く入力欄に画像のURLを入力することで画像を読み込むことができます
 
@@ -19,15 +19,15 @@ URLは画像へ直接リンクしている必要があります。リダイレ�
 その場合はこのボタンは表示されず、機能も利用できません
 {% endalert %}
 
-![cast-image](https://github.com/o-tr/image-tab/assets/155529332/f90e9d52-4fa6-44a9-bfce-e2fb8ad05c12)
+<img src="./img/cast-image.gif">
 
 対象を選択することで各画面及び端末へ画像を投影することができます
 
-![show-screen-name](https://github.com/o-tr/image-tab/assets/155529332/c4143397-7bfa-4c04-9113-6204f99595d5)
+<img src="./img/show-screen-name.gif">
 
 各画面の名前は「Show screen name on screen」を押すことで確認可能です
 
-![cast-to-all-screen](https://github.com/o-tr/image-tab/assets/155529332/9f2635a7-09e8-4d9e-9c0f-c049b797e1d8)
+<img src="./img/cast-to-all-screen.gif">
 
 「Cast to all screen」を選択することで全画面へ一括で投影することも可能です
 
@@ -35,12 +35,12 @@ URLは画像へ直接リンクしている必要があります。リダイレ�
 
 {% alert type="note", style="callout" %}
 ワールド制作者がブックマークを設定していない場合は下段のように表記が変わり、履歴機能のみが有効となります  
-<img src="https://github.com/o-tr/image-tab/assets/155529332/a4ef2426-a2b7-4123-999f-f112a4fc72ff" width=500>
+<img src="./img/bookmark-history.png" width=500>  
 {% endalert %}
 
 ### ブックマーク機能
 
-![use-bookmark](https://github.com/o-tr/image-tab/assets/155529332/756777b1-298a-4aa3-8a3e-7e615095f9f3)
+<img src="./img/use-bookmark.gif">
 
 `Library > Bookmark` からワールド制作者が設定したURLを読み込むことが可能です
 
@@ -51,7 +51,7 @@ URLは画像へ直接リンクしている必要があります。リダイレ�
 Join以前の履歴は同期されないほか、削除も同期されません
 {% endalert %}
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/65338f05-e2e8-45bf-a852-9cd1c01a6061" width=400>
+<img src="./img/history.png" width=400>
 
 `Library > History`(Bookmarkが無効の場合は`History`)から履歴を確認可能です
 
@@ -69,7 +69,7 @@ URL部分を押すことでその画像を読み込むことができます
 
 ## ④設定、その他
 
-<img src="https://github.com/o-tr/image-tab/assets/155529332/4c83c016-e37d-41c8-9279-831021dc6472" width=400>
+<img src="./img/settings.png" width=400>
 
 ### ①自動回転
 
