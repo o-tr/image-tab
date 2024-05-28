@@ -1,6 +1,6 @@
 # Summary
 
 * [ImageTab](README.md)
-* [ユーザー向けドキュメント](for-user/README.md)
+* ユーザー向けドキュメント
   * [ImageTab](for-user/ImageTab.md)
   * [ImageSlide](for-user/ImageSlide.md)
