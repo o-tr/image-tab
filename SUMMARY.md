@@ -7,4 +7,5 @@
 * [ワールド制作者向けドキュメント](for-creator/README.md)
   * [クイックスタート](for-creator/quick-start.md)
   * [トラブルシュート](for-creator/troubleshoot.md)
-  
+* [開発者向けドキュメント](for-developer/README.md)
+  * [TextZip形式の仕様](for-developer/text-zip.md)
