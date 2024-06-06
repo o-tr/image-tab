@@ -1,4 +1,4 @@
 # 開発者向けドキュメント
 独自仕様についてまとめています
 
-## [TextZip](./text-zip.md)
+## [TextZip形式について](./text-zip.md)

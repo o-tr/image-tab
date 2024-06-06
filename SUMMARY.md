@@ -8,4 +8,4 @@
   * [クイックスタート](for-creator/quick-start.md)
   * [トラブルシュート](for-creator/troubleshoot.md)
 * [開発者向けドキュメント](for-developer/README.md)
-  * [TextZip形式の仕様](for-developer/text-zip.md)
+  * [TextZip形式について](for-developer/text-zip.md)
