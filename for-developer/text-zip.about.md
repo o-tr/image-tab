@@ -10,19 +10,7 @@
 https://docs.unity3d.com/ja/2019.4/ScriptReference/Texture2D.LoadRawTextureData.html
 
 ### 2. マニフェストデータを生成する
-この後の工程でZip形式に圧縮するため、その際に画像データを配置するパスと、画像のサイズ(横幅と縦幅)を以下の形式にまとめます  
-なお、パスは相対パスで、 `./` を含めずに記載してください
-
-```
-{
-  "path": <path-to-image>,
-  "rect": {
-    "width": <number>,
-    "height": <number>
-  }
-}
-```
-
+この後の工程でZip形式に圧縮するため、その際に画像データを配置するパスと、画像のサイズ(横幅と縦幅)をまとめます  
 これを各画像に対して生成し、一つの配列にまとめたものを `JSON` 形式で保存します
 
 ### 3. Zip形式に圧縮する
@@ -36,23 +24,7 @@ Zip化したバイナリデータをBase64形式に変換します
 以上でTextZip形式のファイルは完成です  
 任意のサーバーやクラウドなどに配置して配信を行ってください
 
-## サンプルデータ
-### manifest.json
-```
-[
-  {
-    "path": "0.rawimage",
-    "rect": {
-      "width": 612,
-      "height": 792
-    }
-  },
-  {
-    "path": "1.rawimage",
-    "rect": {
-      "width": 612,
-      "height": 792
-    }
-  }
-]
-```
+## 仕様の詳細
+- [TextZip v1](./text-zip.v1.md)
+    - ImageDeviceController v0.0.7以上から対応
+- [TextZip v0](./text-zip.v0.md)
