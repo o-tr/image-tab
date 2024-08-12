@@ -19,14 +19,14 @@ type ManifestItem = {
     path: string;
     format: string; //データのフォーマット
     rect: Rect;
-    ext?: {[ext_name: string]: string} //各機能ごとにKV形式でデータを格納する／extensionに何も指定がない場合は定義しなくても良い
+    extensions?: {[ext_name: string]: string} //各機能ごとにKV形式でデータを格納する／extensionに何も指定がない場合は定義しなくても良い
 }
 
 type Manifest = {
     files: ManifestItem;
     manifestVersion: number; //マニフェストの仕様版
     requiredFeatures: string[]; //フォーマットの読み込み機能など必須要件
-    extension: string[]; //読み込み自体には支障がないが、あった方が良い要件
+    extensions: string[]; //読み込み自体には支障がないが、あった方が良い要件
 }
 ```
 
