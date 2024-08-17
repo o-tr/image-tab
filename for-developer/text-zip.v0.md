@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/TextZip/v0) 
+{% endalert %}
+
 # TextZip v0
 ## 定義
 ```typescript

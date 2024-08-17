@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/TextZip/) 
+{% endalert %}
+
 # TextZip形式について
 ## TextZipとは
 `StringDownloader` で複数の画像を一括で読み込むために開発したファイル形式です

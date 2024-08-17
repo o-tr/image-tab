@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/Packages/ImageTab/creator/) 
+{% endalert %}
+
 # ワールド制作者向けドキュメント
 
 ## サンプルワールド

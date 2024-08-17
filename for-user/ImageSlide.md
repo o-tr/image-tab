@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/Packages/ImageSlide/) 
+{% endalert %}
+
 # ImageSlideの使い方
 
 <img src="./img/slide.png" width=400/>

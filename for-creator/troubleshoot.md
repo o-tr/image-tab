@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/Packages/ImageDeviceController/creator/Troubleshoot) 
+{% endalert %}
+
 # トラブルシュート
 ## インポート時にコンパイルエラーになる
 VRCSDKのバージョンが最小要件を満たしているか確認してみてください  

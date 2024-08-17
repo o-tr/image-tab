@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/docs/Packages/ImageTab/) 
+{% endalert %}
+
 # ImageTabの使い方
 
 <img src="./img/image-tab.png" width=400>
