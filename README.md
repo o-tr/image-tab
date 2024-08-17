@@ -1,3 +1,8 @@
+{% alert type="note", style="callout" %}
+このドキュメントは今後更新されません
+[最新版のドキュメントはこちらです](https://docs.ootr.jp/) 
+{% endalert %}
+
 # ImageTab
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/o-tr/image-tab/blob/master/LICENSE)
